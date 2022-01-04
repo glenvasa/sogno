@@ -40,7 +40,7 @@ const Property = ({
       </Box>
       <Box w="full">
         <Flex
-          paddingTope="2"
+          paddingTop="2"
           alignItems="center"
           justifyContent="space-between"
         >
